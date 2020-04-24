@@ -1,2 +1,2 @@
 # milk
-milk photo
+Image processing with milk photo
